@@ -15,17 +15,10 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 [![An image of @aysahoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aysahoo)](https://holopin.io/@aysahoo)
 
-## Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/aysahoo/project1) - Brief description of Project 1
-
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ayush-sahoo04/)
 - [X](https://x.com/aysahoo_04)
-- [Personal Website](https://q2vogbr3d.sites.cv/)
+
 
 Thanks for visiting my profile! Have a great day! 😊
